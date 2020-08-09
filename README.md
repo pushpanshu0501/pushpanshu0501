@@ -4,7 +4,7 @@
 - Currently pursuing my 2nd year in  B.Tech in Material Science and Engineering, IIT Kanpur (2019-23)
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute to Robotics and AI,ML projects
-- Loves to work on anroids app development using Ionic/Android Stuidio
+- Loves to work on android app development using Ionic/Android Stuidio
 - ⚡ Fun fact: I love to draw, watch movies and series
 
 ### Connect with me:
