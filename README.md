@@ -30,7 +30,6 @@
 <br />
 
 ---
-
 [twitter]: https://twitter.com/0501pushpanshu
 [instagram]: https://www.instagram.com/pushpanshu_tripathi/?hl=en
 [linkedin]: https://www.linkedin.com/in/pushpanshu-tripathi-06b778197/
