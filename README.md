@@ -3,7 +3,7 @@
 
 ### I'm a student and always a learner!
 
-- Currently pursuing my 3nd year in  B.Tech in Material Science and Engineering, IIT Kanpur (2019-23)
+- Currently pursuing my 3rd year in  B.Tech in Material Science and Engineering, IIT Kanpur (2019-23)
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute to Robotics and AI,ML projects
 - ⚡ Fun fact: I love to draw, watch movies and series
