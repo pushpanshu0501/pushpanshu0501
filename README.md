@@ -3,9 +3,8 @@
 
 ### I'm a student and always a learner!
 
-- Currently pursuing my 3rd year in  B.Tech in Material Science and Engineering, IIT Kanpur (2019-23)
+- I am a B.Tech. Graduate from the Department of Materials Science and Engineering, IIT Kanpur (2019-23)
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute to Robotics, Materials Science and AI,ML projects
 - ⚡ Fun fact: I love to draw, watch movies and series
 <!-- - Loves to work on android app development using Ionic/Android Stuidio -->
 
